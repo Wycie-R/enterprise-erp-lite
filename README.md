@@ -1,5 +1,7 @@
 # Adaptador REST a SOAP (Spring Boot Middleware)
 
+Desarrollado con fines educativos y de portafolio, demostrando patrones de integración empresarial.
+
 ## 📋 Resumen
 
 Este proyecto es una solución de backend robusta diseñada para resolver un problema común en el entorno empresarial: **La interoperabilidad entre Microservicios modernos y Sistemas Legacy.**
@@ -66,6 +68,4 @@ Una vez que la aplicación esté corriendo, puedes acceder a la interfaz interac
   "montoTotal": 150000.0,
   "numeroFactura": "001-001-0000123",
   "fechaEmision": "2025-11-27"
-}´´ 
-
-Desarrollado con fines educativos y de portafolio, demostrando patrones de integración empresarial.
+}´´
